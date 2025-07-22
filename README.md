@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m interested in artificial intelligence and machine learning, with a focus on computer vision and object detection. 
 <!--
 **BarstanFilip/BarstanFilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
